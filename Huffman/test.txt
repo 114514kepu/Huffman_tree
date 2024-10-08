@@ -1,0 +1,9 @@
+设计并实现压缩算法对material.txt进行压缩，并撰写实验报告说明算法原理。要求如下：
+1. 尽可能减小压缩文件的大小。
+2. 禁止将文本硬编码到源码里。
+3. 在gitee上创建自己的私人仓库，将项目保存到gitee并公开。
+
+
+其他：
+gitee网址：https://gitee.com
+gitee仓库帮助文档：https://help.gitee.com/repository
